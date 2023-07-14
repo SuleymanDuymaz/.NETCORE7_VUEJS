@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EiB8NJTk1gby3Nttiic4xICTBfHfwmgsSDyzCU6n1QV14jgpyV5WPpS3fc4E5j6WMMZRBaNY4d7DuykzlX2y2A==",
+  "dgSpecHash": "qibNxCgRy9CSayXznh0OvUMnqAO8jZFIvG852DMI3sO4r4mFMNwa7EkLP6dRcH/rNAXwVj8hMTxvnA4hPqLKpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\WebAPI_VUEJS\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\.NETCORE7_VUEJS\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.9\\microsoft.aspnetcore.jsonpatch.7.0.9.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.9\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.9.nupkg.sha512",

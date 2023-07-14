@@ -1152,11 +1152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\WebAPI_VUEJS\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\.NETCORE7_VUEJS\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\WebAPI_VUEJS\\API\\API\\API.csproj",
+      "projectPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\.NETCORE7_VUEJS\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\WebAPI_VUEJS\\API\\API\\obj\\",
+      "outputPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\.NETCORE7_VUEJS\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
